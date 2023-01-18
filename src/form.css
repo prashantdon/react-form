@@ -1,0 +1,26 @@
+.form-input{
+   width: 50%;
+   margin: 0 auto;
+   
+}
+.form{
+    background-color: green;
+    width: 80%;
+    margin: 0 auto;
+    
+}
+.btn{
+    margin-left: 320px;
+    margin-top: 10px;
+    color: white;
+    background-color: blue;
+}
+.info{
+    display: flex;
+    justify-content: space-around;
+    background-color: red;
+    color: white;
+    font-size: 1;
+    width: 80%;
+    margin: 0 auto;
+}
